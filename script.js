@@ -29,7 +29,7 @@ const menu = [
     title: "Avocado Toast Royale",
     category: "Breakfast",
     price: 14.99,
-    img: "https://images.unsplash.com/photo-1588137372308-15f75323a675?ixlib=rb-1.2.1&auto=format&fit=crop&w=800&q=80",
+    img: "https://images.unsplash.com/photo-1579954115563-e72bf1381629?ixlib=rb-1.2.1&auto=format&fit=crop&w=800&q=80",
     desc: `Artisan sourdough toasted to perfection, smothered in smashed avocado, poached eggs, radish slices, and a sprinkle of chili flakes. Healthy meets delicious.`,
   },
   {
@@ -37,7 +37,7 @@ const menu = [
     title: "Crispy Chicken Sandwich",
     category: "Lunch",
     price: 15.99,
-    img: "https://images.unsplash.com/photo-1606754702335-9c8b38665ca8?ixlib=rb-1.2.1&auto=format&fit=crop&w=800&q=80",
+    img: "https://images.unsplash.com/photo-1579954115563-e72bf1381629?ixlib=rb-1.2.1&auto=format&fit=crop&w=800&q=80",
     desc: `Southern-style fried chicken breast with crunchy slaw and spicy mayo on a toasted bun. The perfect crunch in every bite.`,
   },
   {
@@ -85,7 +85,7 @@ const menu = [
     title: "Grilled Salmon Fillet",
     category: "Dinner",
     price: 26.99,
-    img: "https://images.unsplash.com/photo-1467003909585-2f8a7270028d?ixlib=rb-1.2.1&auto=format&fit=crop&w=800&q=80",
+    img: "https://images.unsplash.com/photo-1546964124-0cce460f38ef?ixlib=rb-1.2.1&auto=format&fit=crop&w=800&q=80",
     desc: `Fresh Atlantic salmon fillet grilled with lemon and herbs, served on a bed of quinoa and steamed asparagus.`,
   },
 ];
